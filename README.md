@@ -27,5 +27,5 @@ In General, there are two condition monitoring philosophies</br>
 
 [[19950     0]
  [    2 38508]]
-<
-Accuracy :0.9999657885733835
+
+Accuracy :0.9999657885733835/1
